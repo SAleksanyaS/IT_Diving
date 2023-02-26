@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IT_Diving</string>
+    <string name="alert">Hello</string>
+    <string name="exitt">Click again to exit</string>
+    <string name="text_1">Aleksandr Bugaev (you)</string>
+    <string name="text_2">Timofey Nagovitsyn, Maxim Li, Ilya ....</string>
+</resources>

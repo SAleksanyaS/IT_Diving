@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3425" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/button_press_camera.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/camera_mini.xml" value="0.2095" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/camera_mute_mini.xml" value="0.2095" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/circle.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_a93tyxvhaay.xml" value="0.3425" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_arrow.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_backward.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_camera.xml" value="0.3425" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_camera_mute.xml" value="0.3425" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_end_call.xml" value="0.3425" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3425" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_love.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_micro.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_micro_mini.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_micro_mute.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_micro_mute_mini.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_people.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_phone.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_phone_1.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_speech_bubble.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/ic_widget.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/icon_circle.xml" value="0.3425" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/icon_circle_red.xml" value="0.3425" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/icon_circle_white.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/icona.xml" value="0.2095" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/img.xml" value="0.22" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/img1.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/img_micro.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/off.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/oval_button.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/oval_button_hand.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/oval_button_press.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/oval_button_red.xml" value="0.3675" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/oval_button_white.xml" value="0.196" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/style_button_press_hand.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/style_button_press_red.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/style_button_press_top.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/style_button_press_white.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/drawable/styles.xml" value="0.3295" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3425" />
+        <entry key="..\:/Users/Sasha/AndroidStudioProjects/IT_Diving/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2095" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

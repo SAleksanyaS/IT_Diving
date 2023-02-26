@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ИТ дайвинг</string>
+    <string name="alert">привет</string>
+    <string name="exitt">Нажмите еще раз, чтобы выйти</string>
+    <string name="text_1">Александр Бугаев (вы) </string>
+    <string name="text_2">Тимофей Наговицин, Максим Ли, Илья ....</string>
+</resources>
